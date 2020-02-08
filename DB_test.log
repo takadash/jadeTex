@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2019.7.22)  8 FEB 2020 16:35
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2019.7.22)  8 FEB 2020 17:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -396,7 +396,7 @@ File: ./image11.jpg Graphic file (type eps)
  <./image11.jpg> [4]
 File: ./image12.png Graphic file (type eps)
  <./image12.png> [5]
-Overfull \hbox (14.46562pt too wide) in paragraph at lines 255--256
+Overfull \hbox (14.46562pt too wide) in paragraph at lines 262--263
 []\OT1/cmr/m/n/10 https://www.mext.go.jp/component/a[]menu/education/detail/[][
 ]icsFiles/afieldfile/2010/04/23/1267810[]3[]1.pdf
  []
@@ -404,12 +404,12 @@ Overfull \hbox (14.46562pt too wide) in paragraph at lines 255--256
 [6] (./DB_test.aux) )
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
- 2589 strings out of 493223
- 34084 string characters out of 6144415
+ 2590 strings out of 493223
+ 34094 string characters out of 6144415
  115742 words of memory out of 5000000
- 6519 multiletter control sequences out of 15000+600000
+ 6520 multiletter control sequences out of 15000+600000
  13282 words of font info for 55 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 42i,11n,45p,786b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,11n,45p,786b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on DB_test.dvi (6 pages, 25772 bytes).
+Output written on DB_test.dvi (6 pages, 27044 bytes).
