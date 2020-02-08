@@ -1,0 +1,4 @@
+mktexpk --mfmode / --bdpi 600 --mag 0+577/600 --dpi 577 rml
+mktexpk --mfmode / --bdpi 600 --mag 0+577/600 --dpi 577 rml
+mktexpk --mfmode / --bdpi 600 --mag 0+577/600 --dpi 577 gbm
+mktexpk --mfmode / --bdpi 600 --mag 0+577/600 --dpi 577 gbm
